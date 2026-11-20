@@ -1,0 +1,11 @@
+{
+  "rocket": "fred2.0",
+  "site": "villafranca",
+  "geometry": "v1.1_masscorrected_24ott",
+  "aero": "v1.0",
+  "motor": "srad/8mm_ott23",
+  "recovery": "25ott",
+  "airbrakes": null,
+  "gnc": null,
+  "sensors": null
+}

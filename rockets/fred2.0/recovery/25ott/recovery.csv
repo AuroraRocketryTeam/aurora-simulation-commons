@@ -1,0 +1,8 @@
+# FRED2.0 25ott - lancio del 25/10/2026 - un solo paracadute (main Rocketman 4 ft / Cd 0.97 / senza spill hole) aperto all'apogeo
+# I ritardi vanno dal segnale di espulsione al paracadute completamente aperto.
+name,value,std,unit,note
+cd_s_main,1.13296,0.0277,m^2,0.97 * 1.168
+main_lag,1,0.05,s,segnale di esplusione -> fully inflation
+electronics_lag,0,0.001,s,sensore -> segnale di espulsione; l'algoritmo ha riconosciuto perfettamente l'apogeo
+sampling_rate,105,0,Hz,frequenza dell'algoritmo di recupero
+apogee_threshold,0.1,0,s,discesa continua prima di riconoscere l'apogeo

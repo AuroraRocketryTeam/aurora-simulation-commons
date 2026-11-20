@@ -1,0 +1,17 @@
+# File temporanei di LibreOffice/Excel aperti
+.~lock.*
+~$*
+*~
+
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python e MATLAB
+__pycache__/
+*.pyc
+.venv/
+*.asv
+slprj/
+*.slxc

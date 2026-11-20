@@ -1,0 +1,13 @@
+# Villafranca (aviosuperficie) - sito e rampa del lancio di FRED del 25/10/2026
+# Mappa: immagine satellitare Esri World Imagery (zoom 18; 0.43 m/px); il punto di lancio non è al centro e gli offset spostano la mappa
+name,value,std,unit,note
+latitude,44.2901999,0,deg,
+longitude,12.0278684,0,deg,
+elevation,18,0,m,
+rail_length,1.5,0.005,m,
+inclination,76,3,deg,rispetto all'orizzontale
+heading,180,5,deg,rispetto al nord
+map_half_east,850.11,0,m,metà larghezza della mappa (map.*) centrata sulla rampa
+map_half_north,500.19,0,m,metà altezza della mappa
+map_offset_east,-253.44,0,m,spostamento della mappa verso est
+map_offset_north,135.61,0,m,spostamento della mappa verso nord
