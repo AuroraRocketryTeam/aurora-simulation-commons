@@ -3,7 +3,7 @@
   "site": "santamargarida",
   "geometry": "v1.9",
   "aero": "v1.9",
-  "motor": "srad/v1.0",
+  "motor": "srad/v1.2_3000",
   "recovery": "v1.0",
   "airbrakes": null,
   "gnc": null,

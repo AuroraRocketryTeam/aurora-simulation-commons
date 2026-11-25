@@ -1,0 +1,11 @@
+{
+  "rocket": "atlas",
+  "site": "santamargarida",
+  "geometry": "v1.9",
+  "aero": "v1.9",
+  "motor": "srad/v1.2_1500",
+  "recovery": "v1.0",
+  "airbrakes": null,
+  "gnc": null,
+  "sensors": null
+}
